@@ -1,0 +1,11 @@
+{
+    "license": "MIT",
+    "version": "0.0.1",
+    "auth": "username1",
+    "components":
+    {
+        "module1": {
+            "description": "test_description"
+        }
+    }
+}
