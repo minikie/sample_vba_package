@@ -4,7 +4,7 @@
     "auth": "username1",
     "project_url": "https://github.com/minikie/sample_vba_package",
     "description": "sample_vba_package - sample",
-    "updatedate": "2020-10-11",
+    "update_date": "2020-10-11",
     "components":
     {
         "Module1": {
