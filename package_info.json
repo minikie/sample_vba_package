@@ -8,12 +8,10 @@
     "components":
     {
         "Module1": {
-            "name": "Module1",
             "comp_type": "module",
             "description": "test_description - module"
         },
         "Class1": {
-            "name": "Class1",
             "comp_type": "class",
             "description": "test_description - class"
         }
@@ -21,14 +19,12 @@
     "references":
     {
         "mxvba": {
-            "name": "mxvba",
             "version": "0.0.1"
         }
     },
     "requirements":
     {
         "mxvba": {
-            "name": "mxvba",
             "version": "0.0.1"
         }
     }
