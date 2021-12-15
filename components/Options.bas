@@ -26,8 +26,6 @@ Debug.Print (AONPutPrice)
 Debug.Print (DCPrice)
 Debug.Print (DPPrice)
 
-
-
 End Sub
 Private Function VanillaCallPrice(S As Double, x As Double, d As Double, r As Double, v As Double, T As Double) As Double
 
@@ -212,13 +210,10 @@ End If
 OptionCalculator = res
 
 End Function
-
-
 Function OptionCalculator2(option_type As String, S As Double, strike As Double, barrier As Double, rf As Double, div As Double, vol As Double, T As Double, result_type As String) As Variant
 
 Dim res As Variant
 
-'
 option_type_upp = Replace(UCase(option_type), "_", "")
 result_type_upp = Replace(UCase(result_type), "_", "")
 
