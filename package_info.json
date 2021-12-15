@@ -7,9 +7,13 @@
     "update_date": "2020-10-11",
     "components":
     {
-        "Module1": {
+        "Options": {
             "comp_type": "module",
-            "description": "test_description - module"
+            "description": "Options - module"
+        },
+        "Interpolation": {
+            "comp_type": "module",
+            "description": "Interpolation - module"
         },
         "Class1": {
             "comp_type": "class",
