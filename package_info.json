@@ -1,10 +1,10 @@
 {
     "license": "MIT",
-    "version": "0.0.1",
-    "auth": "username1",
+    "version": "0.0.2",
+    "auth": "minikie",
     "project_url": "https://github.com/minikie/sample_vba_package",
     "description": "sample_vba_package - sample",
-    "update_date": "2020-10-11",
+    "update_date": "2022-03-01",
     "components":
     {
         "Options": {
@@ -15,9 +15,9 @@
             "comp_type": "module",
             "description": "Interpolation - module"
         },
-        "Class1": {
-            "comp_type": "class",
-            "description": "test_description - class"
+        "Statistics": {
+            "comp_type": "module",
+            "description": "Statistics - module"
         }
     },
     "references":
