@@ -1,6 +1,6 @@
 # sample_vba_package
 
-### usage in xelmemo
+### usage in xelmemo - project update usage
 
 1. clone this project
 2. change repo in xelmemo(vba source) to cloned project
